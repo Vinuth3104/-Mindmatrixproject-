@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Channapatna Namma</string>
+    <string name="app_tagline">Authentic toys, told by their makers</string>
+
+    <!-- Home -->
+    <string name="home_verify">Verify My Toy</string>
+    <string name="home_verify_sub">Check authenticity by ID or QR</string>
+    <string name="home_how_made">How It\'s Made</string>
+    <string name="home_how_made_sub">The Hale Wood &amp; Lac journey</string>
+    <string name="home_makers">Meet the Maker</string>
+    <string name="home_makers_sub">Visit Channapatna workshops</string>
+    <string name="home_catalog">Toy Catalog</string>
+    <string name="home_catalog_sub">Rocking horses, puzzles &amp; more</string>
+
+    <!-- Verify -->
+    <string name="verify_title">Verify Authenticity</string>
+    <string name="verify_prompt">Enter the 6-digit Toy ID</string>
+    <string name="verify_button">Verify</string>
+    <string name="verify_scan_qr">Scan QR Code</string>
+    <string name="verify_invalid">Invalid ID. Authentic toys carry a 6-digit code.</string>
+    <string name="verify_not_found">Sorry — this ID is not in our registry. It may be a fake.</string>
+    <string name="verify_authentic">Authentic Channapatna Toy</string>
+
+    <!-- Artisan -->
+    <string name="artisan_meet">Meet the artisan</string>
+    <string name="artisan_video">Watch how it was made</string>
+    <string name="artisan_play">▶ Play (mock video)</string>
+
+    <!-- How it\'s made -->
+    <string name="how_made_title">The Story of the Wood</string>
+    <string name="how_made_intro">Channapatna toys begin with the soft, ivory-white Hale wood (Wrightia tinctoria). Every step is handmade.</string>
+
+    <!-- Makers -->
+    <string name="makers_title">Meet the Maker</string>
+    <string name="makers_intro">Visit these GI-tagged workshops in Channapatna, Karnataka.</string>
+
+    <!-- Catalog -->
+    <string name="catalog_title">Toy Catalog</string>
+</resources>

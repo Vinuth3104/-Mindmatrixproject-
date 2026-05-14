@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ಚನ್ನಪಟ್ಟಣ ನಮ್ಮ</string>
+    <string name="app_tagline">ನಿಜವಾದ ಆಟಿಕೆಗಳು, ತಯಾರಕರ ಕಥೆಯೊಂದಿಗೆ</string>
+
+    <string name="home_verify">ನನ್ನ ಆಟಿಕೆ ಪರಿಶೀಲಿಸಿ</string>
+    <string name="home_verify_sub">ಐಡಿ ಅಥವಾ ಕ್ಯೂಆರ್‌ ಮೂಲಕ ದೃಢೀಕರಿಸಿ</string>
+    <string name="home_how_made">ಹೇಗೆ ತಯಾರಿಸಲಾಗಿದೆ</string>
+    <string name="home_how_made_sub">ಹಾಲೆ ಮರ ಮತ್ತು ಲಾಕ್ ಪಯಣ</string>
+    <string name="home_makers">ತಯಾರಕರನ್ನು ಭೇಟಿಯಾಗಿ</string>
+    <string name="home_makers_sub">ಚನ್ನಪಟ್ಟಣದ ಕಾರ್ಯಾಗಾರಗಳಿಗೆ ಭೇಟಿ ನೀಡಿ</string>
+    <string name="home_catalog">ಆಟಿಕೆ ಪಟ್ಟಿ</string>
+    <string name="home_catalog_sub">ಜೊಂಪಿಸುವ ಕುದುರೆ, ಒಗಟು ಮತ್ತು ಇನ್ನಷ್ಟು</string>
+
+    <string name="verify_title">ದೃಢೀಕರಣ ಪರಿಶೀಲನೆ</string>
+    <string name="verify_prompt">6-ಅಂಕಿ ಆಟಿಕೆ ಐಡಿ ನಮೂದಿಸಿ</string>
+    <string name="verify_button">ಪರಿಶೀಲಿಸಿ</string>
+    <string name="verify_scan_qr">ಕ್ಯೂಆರ್‌ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
+    <string name="verify_invalid">ಅಮಾನ್ಯ ಐಡಿ. ನಿಜವಾದ ಆಟಿಕೆಗಳಲ್ಲಿ 6-ಅಂಕಿ ಕೋಡ್ ಇರುತ್ತದೆ.</string>
+    <string name="verify_not_found">ಕ್ಷಮಿಸಿ — ಈ ಐಡಿ ನಮ್ಮ ನೋಂದಣಿಯಲ್ಲಿಲ್ಲ. ಇದು ನಕಲಿ ಆಗಿರಬಹುದು.</string>
+    <string name="verify_authentic">ನಿಜವಾದ ಚನ್ನಪಟ್ಟಣ ಆಟಿಕೆ</string>
+
+    <string name="artisan_meet">ಕಲಾವಿದರನ್ನು ಭೇಟಿಯಾಗಿ</string>
+    <string name="artisan_video">ಹೇಗೆ ತಯಾರಿಸಲಾಗಿದೆ ಎಂಬುದನ್ನು ನೋಡಿ</string>
+    <string name="artisan_play">▶ ಪ್ಲೇ (ಮೋಕ್ ವೀಡಿಯೊ)</string>
+
+    <string name="how_made_title">ಮರದ ಕಥೆ</string>
+    <string name="how_made_intro">ಚನ್ನಪಟ್ಟಣ ಆಟಿಕೆಗಳು ಮೃದು, ದಂತದ ಬಣ್ಣದ ಹಾಲೆ ಮರದಿಂದ ಆರಂಭವಾಗುತ್ತವೆ. ಪ್ರತಿ ಹಂತವೂ ಕೈಯಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ.</string>
+
+    <string name="makers_title">ತಯಾರಕರನ್ನು ಭೇಟಿಯಾಗಿ</string>
+    <string name="makers_intro">ಕರ್ನಾಟಕದ ಚನ್ನಪಟ್ಟಣದಲ್ಲಿರುವ GI-ಟ್ಯಾಗ್ ಕಾರ್ಯಾಗಾರಗಳಿಗೆ ಭೇಟಿ ನೀಡಿ.</string>
+
+    <string name="catalog_title">ಆಟಿಕೆ ಪಟ್ಟಿ</string>
+</resources>

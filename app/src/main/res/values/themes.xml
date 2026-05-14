@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MindmatrixProject" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FAF7F2</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <!--
+        System splash screen — uses the app launcher icon by default and fades into the
+        Compose app theme on cold start. The splash background is the app's warm cream.
+    -->
+    <style name="Theme.MindmatrixProject.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#E63946</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher_round</item>
+        <item name="postSplashScreenTheme">@style/Theme.MindmatrixProject</item>
+    </style>
+</resources>
